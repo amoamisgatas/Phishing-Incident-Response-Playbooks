@@ -22,7 +22,7 @@ Potential risks include:
 ---
 ## Incident Workflow
 
-![Phishing Incident Workflow](images/phishing_incident_workflow.png)
+<img width="1173" height="627" alt="phishing_incident_workflow png" src="https://github.com/user-attachments/assets/f2793ae5-3137-4509-be3c-032111311c67" />
 
 ---
 
