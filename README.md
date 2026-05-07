@@ -20,6 +20,11 @@ Potential risks include:
 - Business email compromise
 
 ---
+## Incident Workflow
+
+![Phishing Incident Workflow](images/phishing_incident_workflow.png)
+
+---
 
 ## Detection & Initial Triage
 
